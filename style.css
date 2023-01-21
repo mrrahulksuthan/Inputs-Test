@@ -126,3 +126,11 @@ input#radio{
 #addons::placeholder{
     text-align: center;
 }
+
+.checbox{
+    color: rgb(95, 92, 92);
+}
+
+.radi{
+    color: rgb(95, 92, 92);
+}
